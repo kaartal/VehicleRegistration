@@ -41,11 +41,8 @@ CREATE TABLE `osoba` (
 --
 
 INSERT INTO `osoba` (`ime`, `prezime`, `jmbg`, `mjesto_stanovanja`, `mjesto_rodjenja`, `datum_rodjenja`) VALUES
-('Jusuf', 'Salkanović', '3839839294857', 'Tuzla', 'Tuzla', '2003-07-05'),
-('Muamer', 'Rakman', '432087504838', 'Tešanj', 'Tešanj', '2003-12-23'),
 ('Halid', 'Kartal', '432324324', 'Tuzla', 'Tuzla', '2000-04-02'),
-('Dženan', 'Bristrić', '432354645', 'Tuzla', 'Tuzla', '2003-03-04'),
-('Muamer', 'Rakman', '4382743284320', 'Tešanj', 'Tešanj', '2003-09-30');
+
 
 -- --------------------------------------------------------
 
